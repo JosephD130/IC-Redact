@@ -2,7 +2,8 @@
 
 Automatically detect and redact sensitive information from PDFs.
 
-![IC Redact Screenshot](screenshot.png)
+![IC Redact Screenshot1](Screenshot1.png)
+![IC Redact Screenshot2](Screenshot2.png)
 
 ## What It Does
 
